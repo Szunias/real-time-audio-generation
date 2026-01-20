@@ -1,4 +1,8 @@
-# Audio Generation Research - Graduation Work
+# Real-Time Audio Generation for Games
+
+![Unreal Engine 5.5](https://img.shields.io/badge/Unreal-5.5-blue?logo=unrealengine)
+![Python 3.12](https://img.shields.io/badge/Python-3.12-green?logo=python)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 **Author:** Igor Szuniewicz
 **Institution:** Howest - Digital Arts and Entertainment (DAE)
