@@ -1,0 +1,23 @@
+# Python Backend Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+websockets>=12.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Audio processing
+pydub>=0.25.0
+
+# ElevenLabs API (optional - requires API key)
+elevenlabs>=1.0.0
+
+# PyTorch for local models
+# Install with CUDA support: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Diffusers for AudioLDM, Stable Audio
+diffusers>=0.25.0
+transformers>=4.30.0
+accelerate>=0.20.0
